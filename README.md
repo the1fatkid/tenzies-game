@@ -28,12 +28,12 @@ A fun dice game built with React! The goal is to roll until all 10 dice show the
 
 ## 📸 Preview
 
-![React Quiz App Screenshot1](public/tenzies-ss1.png)
-![React Quiz App Screenshot2](public/tenzies-ss2.png)
+![Tenzies Screenshot1](public/tenzies-ss1.png)
+![Tenzies Screenshot2](public/tenzies-ss2.png)
 
 
 ## 📽️ Demo
-Check out the live demo of the React Quiz App [here](https://the1fatkid.github.io/tenzies-game/).
+Check out the live demo of the Tenzies App [here](https://the1fatkid.github.io/tenzies-game/).
 
 ## 🚀 Getting Started
 To set up the project locally for development and testing, follow these steps:
